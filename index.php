@@ -11,4 +11,5 @@ echo "<br>";
 echo $z;
 echo "<br>";
 echo $zz;
+echo "<h1> Hello phpm!</h1>";
 ?>
